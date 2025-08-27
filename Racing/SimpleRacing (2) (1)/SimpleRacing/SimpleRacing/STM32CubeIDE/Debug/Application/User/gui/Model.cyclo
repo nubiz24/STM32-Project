@@ -1,0 +1,4 @@
+C:/Users/Asus/Downloads/LAB3/Bai3/SimpleRacing/SimpleRacing/TouchGFX/gui/src/model/Model.cpp:4:1:Model::Model()	1
+C:/Users/Asus/Downloads/LAB3/Bai3/SimpleRacing/SimpleRacing/TouchGFX/gui/src/model/Model.cpp:9:6:void Model::tick()	1
+C:/Users/Asus/Downloads/LAB3/Bai3/SimpleRacing/SimpleRacing/TouchGFX/gui/src/model/Model.cpp:14:6:void Model::update(int16_t)	1
+C:/Users/Asus/Downloads/LAB3/Bai3/SimpleRacing/SimpleRacing/TouchGFX/gui/src/model/Model.cpp:19:9:int16_t Model::GetImageX()	1

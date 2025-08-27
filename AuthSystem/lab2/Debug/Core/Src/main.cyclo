@@ -1,0 +1,15 @@
+../Core/Src/main.c:69:9:bin2bcd	1
+../Core/Src/main.c:74:9:bcd2bin	1
+../Core/Src/main.c:89:10:SetTime	1
+../Core/Src/main.c:104:10:GetTime	1
+../Core/Src/main.c:125:5:isAuthorized	3
+../Core/Src/main.c:138:6:save_log	2
+../Core/Src/main.c:145:6:HAL_UART_RxCpltCallback	3
+../Core/Src/main.c:156:6:show_logs	2
+../Core/Src/main.c:172:5:main	3
+../Core/Src/main.c:289:6:SystemClock_Config	4
+../Core/Src/main.c:342:13:MX_I2C3_Init	4
+../Core/Src/main.c:390:13:MX_SPI4_Init	2
+../Core/Src/main.c:428:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:461:13:MX_GPIO_Init	1
+../Core/Src/main.c:508:6:Error_Handler	1
